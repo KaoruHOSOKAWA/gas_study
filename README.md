@@ -1,3 +1,3 @@
 # gas_study
 
-これはZennの本のためのcsvファイル群です。
+これは Zenn の本のためのcsvファイル群です。
